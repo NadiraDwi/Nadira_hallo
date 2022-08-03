@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hello_nadira</string>
+    <string name="hitungan">0</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_count">Count</string>
+    <string name="message">Hello Toast Nad</string>
+    <string name="back">back</string>
+</resources>
